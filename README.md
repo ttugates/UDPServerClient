@@ -2,6 +2,10 @@
 
 Testbed for learning UDP over LAN
 
+# Current Features:
+  - 2 WinForms able to send and receive UDP datagrams.
+          - Received messages displayed in textbox.
+
 # TODOs:
   - Learn about UDP and Multicast
         - Whats difference between 255.255.255.255 and 192.168.1.255?
